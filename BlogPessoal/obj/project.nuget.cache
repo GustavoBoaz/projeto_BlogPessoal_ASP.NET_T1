@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ecU+/5+wQz0gjBRnfPoq5qj24U60XXhQOGWicUu5hsxTouNAycPdYUAw6f8m4GpLeTR2EfrqYSfIowybMFeuWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pamel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
