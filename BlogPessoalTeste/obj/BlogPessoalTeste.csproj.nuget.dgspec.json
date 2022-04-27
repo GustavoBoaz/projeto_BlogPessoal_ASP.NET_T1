@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj": {}
+    "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj": {
+    "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj",
+        "projectUniqueName": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj",
         "projectName": "BlogPessoalTeste",
-        "projectPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj",
+        "projectPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj",
         "packagesPath": "C:\\Users\\pamel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\BPVS\\BlogPessoal\\BlogPessoalTeste\\obj\\",
+        "outputPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoalTeste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj": {
-                "projectPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj"
+              "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj": {
+                "projectPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj"
               }
             }
           }
@@ -51,6 +51,14 @@
             "MSTest.TestFramework": {
               "target": "Package",
               "version": "[2.2.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.13, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -80,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj": {
+    "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj",
+        "projectUniqueName": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj",
         "projectName": "BlogPessoal",
-        "projectPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj",
+        "projectPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj",
         "packagesPath": "C:\\Users\\pamel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\obj\\",
+        "outputPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,6 +123,22 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
