@@ -52,7 +52,7 @@ namespace BlogPessoalTeste.Testes.repositorios
         public void PegaTemaPelaDescricaoRetornadoisTemas(string descricao)
         {
             //GIVEN - Dado que pesquiso pela descricao Java
-            var temas = _repositorio.PegarTemasPelaDescricao(descricao);
+            var temas = _repositorio.PegarTemaPelaDescricao(descricao);
             //THEN - Entao deve retornar 2 temas
             Assert.AreEqual(2, temas.Count);
         }

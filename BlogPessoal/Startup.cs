@@ -11,6 +11,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BlogPessoal.src.repositorios;
+using BlogPessoal.src.repositorios.implementacoes;
 
 namespace BlogPessoal
 {
@@ -26,14 +28,19 @@ namespace BlogPessoal
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            // ConfiguraÁ„o Banco de Dados
+            // Configura√ß√£p Banco de Dados
             IConfigurationRoot config = new ConfigurationBuilder()
                 .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
                 .AddJsonFile("appsettings.json")
                 .Build();
             services.AddDbContext<BlogPessoalContexto>(opt => opt.UseSqlServer(config.GetConnectionString("DefaultConnection")));
 
-            // ConfiguraÁ„o Controladores
+            // Configura√ß√£o Repositorios
+            services.AddScoped<IUsuario, UsuarioRepositorio>();
+            services.AddScoped<ITema, TemaRepositorio>();
+            services.AddScoped<IPostagem, PostagemRepositorio>();
+
+            // Configura√ß√£o Controladores
             services.AddControllers();
         }
 

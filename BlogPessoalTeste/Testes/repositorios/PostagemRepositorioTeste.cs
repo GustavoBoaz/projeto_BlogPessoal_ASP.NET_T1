@@ -92,7 +92,7 @@ namespace BlogPessoalTeste.Testes.repositorios
             // GIVEN - Dado que eu vou atualizar a postagem de id 2
             _repositorioP.AtualizarPostagem(
                 new AtualizarPostagemDTO(
-                /*idPostagem,*/
+                 idPostagem,
                 "JavaScript é muito massa",
                 "JavaScript é muito utilizada no mundo",
                 "URLDAFOTOATUALIZADA",

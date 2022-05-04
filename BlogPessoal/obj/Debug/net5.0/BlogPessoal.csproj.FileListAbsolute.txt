@@ -1,77 +1,55 @@
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\appsettings.json
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\BlogPessoal.exe
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\BlogPessoal.deps.json
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\BlogPessoal.runtimeconfig.json
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\BlogPessoal.runtimeconfig.dev.json
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\BlogPessoal.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\BlogPessoal.pdb
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.csproj.AssemblyReference.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.AssemblyInfoInputs.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.AssemblyInfo.cs
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.csproj.CoreCompileInputs.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\scopedcss\bundle\BlogPessoal.styles.css
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\staticwebassets\BlogPessoal.StaticWebAssets.Manifest.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.RazorTargetAssemblyInfo.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\refint\BlogPessoal.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.pdb
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.genruntimeconfig.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1 - Introduction to Web Development using C# and ASP-NET\Code\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\ref\BlogPessoal.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\appsettings.json
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\BlogPessoal.exe
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\BlogPessoal.deps.json
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\BlogPessoal.runtimeconfig.json
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\BlogPessoal.runtimeconfig.dev.json
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\BlogPessoal.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\BlogPessoal.pdb
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Humanizer.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.csproj.AssemblyReference.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.AssemblyInfoInputs.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.AssemblyInfo.cs
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.csproj.CoreCompileInputs.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\scopedcss\bundle\BlogPessoal.styles.css
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\staticwebassets\BlogPessoal.StaticWebAssets.Manifest.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.RazorTargetAssemblyInfo.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.csproj.CopyComplete
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\refint\BlogPessoal.dll
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.pdb
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\BlogPessoal.genruntimeconfig.cache
-C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\WEB-ASP.NET-1\Code\Primeiro\BPVS\BlogPessoal\BlogPessoal\obj\Debug\net5.0\ref\BlogPessoal.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\appsettings.json
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\BlogPessoal.exe
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\BlogPessoal.deps.json
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\BlogPessoal.runtimeconfig.json
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\BlogPessoal.runtimeconfig.dev.json
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\BlogPessoal.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\BlogPessoal.pdb
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Humanizer.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\BlogPessoal.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\BlogPessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\BlogPessoal.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\BlogPessoal.AssemblyInfo.cs
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\BlogPessoal.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\BlogPessoal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\scopedcss\bundle\BlogPessoal.styles.css
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\staticwebassets\BlogPessoal.StaticWebAssets.Manifest.cache
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\BlogPessoal.RazorTargetAssemblyInfo.cache
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\BlogPessoal.csproj.CopyComplete
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\BlogPessoal.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\refint\BlogPessoal.dll
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\BlogPessoal.pdb
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\BlogPessoal.genruntimeconfig.cache
+C:\Users\rodri\Documents\_Generation\BlogPessoalDemo\project_BlogPessoalTurma1DT\BlogPessoal\obj\Debug\net5.0\ref\BlogPessoal.dll
