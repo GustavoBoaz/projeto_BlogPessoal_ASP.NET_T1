@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CLzwlVvzr7thg2Nlwu6QcO34tUNPKgT/BI872QQWEUGzyqTpRGJ04BzAaIRymPCZALsWLyzWwSTDewlIOANunw==",
+  "dgSpecHash": "UuW87B4DCzX9WNXQ7ZSTEYOOnMoM+1VM6zcDLe/alhFP5d4qDzlXxwnMTpEZOvchY+OPLuOV4Y9Hww4EdrsGRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj",
+  "projectFilePath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\ASPNET\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pamel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\pamel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

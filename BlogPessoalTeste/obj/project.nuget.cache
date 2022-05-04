@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pJhmegsDyGFVsxQ3Cf8zPP78dT53y/8QIsgdeIE2adAtrZQ63oy/DX/3/3kcb3mIAOTR3vL4KpD1gZaS6gRNxQ==",
+  "dgSpecHash": "IaznT8TkIDjZYHGUG2swZSpxMIlbTtwvH4Rp5mbiVix2GGMed65Be04RESK3M0y2CgChNffypjzr+g641d6kag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj",
+  "projectFilePath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\ASPNET\\Code\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pamel\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pamel\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

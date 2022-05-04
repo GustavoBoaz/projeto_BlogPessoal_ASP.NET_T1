@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj": {}
+    "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\ASPNET\\Code\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj": {
+    "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\ASPNET\\Code\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj",
+        "projectUniqueName": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\ASPNET\\Code\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj",
         "projectName": "BlogPessoalTeste",
-        "projectPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj",
+        "projectPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\ASPNET\\Code\\BPVS\\BlogPessoal\\BlogPessoalTeste\\BlogPessoalTeste.csproj",
         "packagesPath": "C:\\Users\\pamel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoalTeste\\obj\\",
+        "outputPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\ASPNET\\Code\\BPVS\\BlogPessoal\\BlogPessoalTeste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj": {
-                "projectPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj"
+              "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\ASPNET\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj": {
+                "projectPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\ASPNET\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj": {
+    "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\ASPNET\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj",
+        "projectUniqueName": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\ASPNET\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj",
         "projectName": "BlogPessoal",
-        "projectPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj",
+        "projectPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\ASPNET\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\BlogPessoal.csproj",
         "packagesPath": "C:\\Users\\pamel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\WEB-ASP.NET-1\\Code\\Primeiro\\BPVS\\BlogPessoal\\BlogPessoal\\obj\\",
+        "outputPath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\ASPNET\\Code\\BPVS\\BlogPessoal\\BlogPessoal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
